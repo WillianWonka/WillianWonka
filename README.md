@@ -1,16 +1,13 @@
-### Hi there 👋
+#### Olá esse é meu perfil '-'
 
-<!--
-**WillianWonka/WillianWonka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Willan Gomes e apelido Will Wonka 
 
-Here are some ideas to get you started:
+- estou estudando dentro da plataforma alura
+  ![](https://media1.tenor.com/m/swX2Q00rMwsAAAAC/alados5-hollow-knight.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**PROJETOS REALIZADOS**
+- Relampago alura https://scratch.mit.edu/projects/980757823/
+- Fundo do mar https://scratch.mit.edu/projects/989605485/
+- ping pong https://scratch.mit.edu/projects/1009347252/
+
